@@ -1,0 +1,4 @@
+openai
+pandas
+stopwordsiso
+tqdm
